@@ -1,0 +1,8 @@
+time(s),total_slots,used_slots,workers,tasks,executors,transferred (messages),throughput (messages/s),spout_executors,spout_transferred (messages),spout_acked (messages),spout_throughput (messages/s),spout_avg_complete_latency(ms),spout_max_complete_latency(ms)
+10,4,4,4,11,11,0,0,0,0,0,0,0.0,0.0
+20,4,4,4,11,11,180,17,1,180,240,17,3.3,3.3
+30,4,4,4,11,11,4680,465,1,4680,5120,465,1.6,1.6
+40,4,4,4,11,11,5880,586,1,5880,11200,586,1.5,1.5
+50,4,4,4,11,11,3460,345,1,3460,14740,345,1.5,1.5
+60,4,4,4,11,11,0,0,1,0,14740,0,1.5,1.5
+70,4,4,4,11,11,0,0,1,0,14740,0,1.5,1.5
